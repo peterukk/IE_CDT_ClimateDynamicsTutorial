@@ -1,0 +1,17 @@
+name: iecdt_eda
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - ipykernel
+  - jupyter
+  - nc-time-axis
+  - xarray
+  - numpy
+  - matplotlib
+  - cartopy
+  - scipy
+  - pip
+  - netcdf4
+  - pip:
+    - xarray-regrid
