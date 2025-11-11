@@ -1,4 +1,4 @@
-# Climate Prediction $~~~~~~~~~~~~~~~~~~~~~~~~~~$  tinyurl.com/bdcuw4ju 
+# Climate Prediction $~~~~~~~~~~~~~~~$  tinyurl.com/bdcuw4ju 
 Imagine you work for the Met Office and a client (e.g., from agriculture, utilities companies, finance) has asked you predict the temperature in Oxford, UK on 11th of December 2025 (a month from now), 11th November 2026 (a year from now) and on 11th November 2100. You have access to data from climate model simulations (CMIP) and reanalysis (ERA5) already downloaded from [the Climate Data Store (cds)](https://cds.climate.copernicus.eu/datasets/projections-cmip6?tab=download). 
 
 Think about: 
