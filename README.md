@@ -11,7 +11,7 @@ Think about:
 There are two different notebooks. You can start with whichever exercises you prefer. The exercies assume you only use the data in the repository, but if you have extra time you are welcome to use other sources of data. You are also welcome to try more advanced methods than the approaches assumed in the notebooks. 
 
 ### Set up
-You can use these notebooks in your local environment (some basic dependencies are required), or use Google Colab, which is the easiest way. Each notebook will have a Colab link associated with it. Colab doesn't host data, so you'll still have to pull the repo within Colab. 
+You can use these notebooks in your local environment (some basic dependencies are required), as it contains all the data you need. There is one larger file which means it may take a minute or so to pull.
 
 ## Time series approach
 
